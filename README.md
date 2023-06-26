@@ -14,7 +14,7 @@ Follow the installation guide below to install the GUI, then run `run_gui.ps1`(w
 ### Clone repo with submodules
 
 ```sh
-git clone --recurse-submodules https://github.com/Akegarasu/lora-scripts
+git clone --recurse-submodules https://github.com/Holmose/lora-scripts
 ```
 
 ### Required Dependencies
